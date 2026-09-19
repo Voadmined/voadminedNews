@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Update 2.3.0 - Contact and testing",
+    "date": "09/19/26",
+    "contents": [
+      "Added contact formular",
+      "Moved BETA feedback button",
+      "Switched BETA notice and starting screen",
+      "Fixed standard color theme issue"
+    ]
+  },
+  {
+    "name": "Patch 2.2.2",
+    "date": "09/19/26",
+    "contents": [
+      "Made profile card more transparent",
+      "Fixed avatar scaling",
+      "Fixed avatar file"
+    ]
+  },
+  {
+    "name": "Patch 2.2.1",
+    "date": "09/19/26",
+    "contents": [
+        "Disabled background orbs for light mode"
+    ]
+  },
+  {
+    "name": "Update 2.2.0 - News",
+    "date": "09/19/26",
+    "contents": [
+        "Integrated website tab favicon icon",
+        "Added grey to theme settings",
+        "Implemented news section",
+        "Implemented beta feedback and beta water mark",
+        "Set monochrome grey to standard color theme",
+        "Moved update logs into news section",
+        "Fixed formatting and UI issues"
+    ]
+  },
+  {
+    "name": "Update 2.1.0 - Customization",
+    "date": "09/18/26",
+    "contents": [
+        "Added general settings",
+        "Added color palette system",
+        "Added light/dark mode",
+        "Added customization switches for particles & background orbs"
+    ]
+  },
+  {
+    "name": "Patch 2.0.1",
+    "date": "09/18/26",
+    "contents": [
+      "Optimized responsive glass card layout for mobile devices",
+      "Improved touch target sizes for audio controls and navigation",
+      "Adjusted update log modal sizing for small screens"
+    ]
+  },
+  {
+    "name": "Update 2.0.0",
+    "date": "09/18/26",
+    "contents": [
+      "Added single-entry pagination with dynamic counter",
+      "Redesigned control widgets into uniform glass capsules",
+      "Moved copyright and disclaimers to bottom screen footer",
+      "Removed avatar status indicator and refined UI layout due to overlapping",
+      "Fixed widget layout shift by locking modal container height",
+      "Fixed music animation bugs"
+    ]
+  },
+  {
+    "name": "Update 1.0.0",
+    "date": "09/18/26",
+    "contents": [
+      "Initial profile site release",
+      "Integrated Discord social link",
+      "Integrated enter overlay for seamless audio autoplay",
+      "Added ambient background particle system",
+      "Integrated dynamic volume icon indicators"
+    ]
+  }
+]
