@@ -1,14 +1,16 @@
 [
   {
-    "name": "Update 2.3.0 - Contact and testing",
+    "name": "Update 2.3.0 - Contact, GitHub, UI",
     "date": "09/19/26",
     "contents": [
       "Implemented contact formular",
-      "Integrated live news via Github",
-      "Added Github profile",
+      "Integrated live news via GitHub",
+      "Added GitHub profile",
+      "Added tooltips",
       "Moved BETA feedback button",
       "Switched BETA notice and starting screen",
-      "Fixed standard color theme issue"
+      "Fixed standard color theme issue",
+      "Improved mobile experience"
     ]
   },
   {
