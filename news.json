@@ -3,7 +3,9 @@
     "name": "Update 2.3.0 - Contact and testing",
     "date": "09/19/26",
     "contents": [
-      "Added contact formular",
+      "Implemented contact formular",
+      "Integrated live news via Github",
+      "Added Github profile",
       "Moved BETA feedback button",
       "Switched BETA notice and starting screen",
       "Fixed standard color theme issue"
