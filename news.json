@@ -1,6 +1,6 @@
 [
   {
-    "name": "[BETA] Update 3.0.0 - Modern Future Update",
+    "name": "Update 3.0.0 - Modern Future Update",
     "date": "09/20/26",
     "contents": [
       "Implemented UI scaling",
@@ -10,6 +10,7 @@
       "Added news containers",
       "Made sidebar icons bigger",
       "Changed full buttons to lighted border switches/buttons when enabled",
+      "Changed font",
       "Moved to BETA water mark to the top-right corner",
       "Disabled sidebar boxes",
       "Removed cyan from color palette"
