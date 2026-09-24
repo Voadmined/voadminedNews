@@ -1,5 +1,5 @@
 # Voadmined News Information
-News, release notes and credits for [my website](https://voadmined.netlify.app). You can view all the data by opening the news modal or pressing the `n` key while on the website's home page.
+News, release notes and credits for [my website](https://voadmined.netlify.app). You can view all the data by opening the news modal or pressing the `n` key while on the website's home page. Make sure to read the [LICENSE](https://github.com/Voadmined/voadminedNews/blob/main/LICENSE) before using any associated data.
 ## news.json
 The `news.json` file contains all news items and update logs/release notes for the website.
 ## credits.json
