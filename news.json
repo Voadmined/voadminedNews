@@ -1,9 +1,24 @@
 [
   {
+    "name": "Update 3.2.0" ,
+    "date": "09/24/26",
+    "contents": [
+      "Added background particle density",
+      "Integreated UIFX slider in settings (disabled)",
+      "Implemented terminal (you can access it by pressing `-`)",
+      "Introduced first commands",
+      "Implemented background particle density slider in settings",
+      "Added version tag",
+      "Added profile card tooltips",
+      "Implemented secret AI theme",
+      "Fixed mobile experience"
+    ]
+  },
+  {
     "name": "Update 3.1.0",
     "date": "09/20/26",
     "contents": [
-      "Added credits hub in news section",
+      "Added credit card in news section",
       "Added keyboard shortcuts",
       "Added keyboard shortcuts overview in settings menu",
       "Diabled UI scaling on mobile devices"
